@@ -11,13 +11,13 @@
 
 ## 🎯 Ziel des Projekts
 
-PatriotConnect stellt keine einzelne Anwendung dar – sondern ein **technologisches Fundament**, auf dem digitale Werkzeuge für die patriotische Bewegung entwickelt, vernetzt und betrieben werden können. Im Mittelpunkt steht die **professionelle, modulare Digitalisierung** der Parteiarbeit und angrenzender Strukturen.
+PatriotConnect stellt keine einzelne Anwendung dar – sondern ein **technologisches Fundament**, auf dem digitale Werkzeuge für die patriotische Bewegung entwickelt, vernetzt und betrieben werden. Im Mittelpunkt steht die **professionelle, modulare Digitalisierung** der Parteiarbeit und angrenzender Strukturen und Organisationen.
 
 ---
 
 ## 🧱 Architektur & Grundidee
 
-PatriotConnect basiert auf einem **Microservice-fähigen Modularsystem**, das zunächst als performanter Monolith entwickelt wird. Die Komponenten kommunizieren über eine zentrale API-Struktur und können individuell erweitert oder ausgelagert werden.
+PatriotConnect basiert auf einem **Microservice-fähigen Modularsystem**. Die Komponenten kommunizieren über eine zentrale API-Struktur und können individuell erweitert oder ausgelagert werden.
 
 **Technologische Basis:**
 
@@ -63,9 +63,9 @@ PatriotConnect kann durch spezialisierte Dienste und Module erweitert werden, z.
 
 ## 🔐 Prinzipien & Philosophie
 
-- **Unabhängigkeit**: Eigenentwickelte Infrastruktur ohne Cloud-Abhängigkeit
+- **Unabhängigkeit**: Eigenentwickelte Infrastruktur ohne BigTech Cloud-Abhängigkeit
 - **Souveränität**: Datenhoheit bleibt bei den Organisationen
-- **Modularität**: Jedes Feature ist ein austauschbares Modul
+- **Modularität**: Es gibt Core-Module und Features als austauschbare indviduelle unabhängige Module
 - **Langfristigkeit**: Entwicklung mit Fokus auf Erweiterbarkeit & Stabilität
 - **Effizienz**: Schnelle Ladezeiten, einfache Bedienung, automatisierbare Abläufe
 
@@ -75,7 +75,7 @@ PatriotConnect kann durch spezialisierte Dienste und Module erweitert werden, z.
 
 PatriotConnect richtet sich an:
 
-- politische Organisationen (z. B. AfD, ihre Gliederungen & Mandatsträger)
+- die AfD (mit ihren Gliederungen & Mandatsträgern)
 - parteinahe Stiftungen und Bildungsinitiativen
 - patriotische Bürgernetzwerke & Vereine
 - technische Teams, die patriotische Digitalinfrastruktur aufbauen wollen
@@ -95,7 +95,7 @@ PatriotConnect richtet sich an:
 
 ## 📢 Kontakt & Mitwirkung
 
-Du möchtest das Projekt unterstützen, Feedback geben oder eine eigene Instanz aufsetzen?
+Du möchtest das Projekt unterstützen oder Feedback geben?
 
 📧 **Steven Weißheimer**  
 ✉️ [afd@stevenweissheimer.com](mailto:afd@stevenweissheimer.com)  
@@ -103,4 +103,4 @@ Du möchtest das Projekt unterstützen, Feedback geben oder eine eigene Instanz 
 
 ---
 
-© 2025 – PatriotConnect ist ein freies Infrastrukturprojekt zur Stärkung patriotischer Strukturen in Deutschland.
+© 2025 – PatriotConnect ist ein Infrastrukturprojekt zur Stärkung patriotischer Strukturen in Deutschland.
