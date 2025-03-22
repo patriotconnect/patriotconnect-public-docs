@@ -1,6 +1,6 @@
 # PatriotConnect – Digitale Infrastruktur für patriotische Parteiarbeit
 
-**PatriotConnect** ist eine modulare, skalierbare Architekturbasis zur Digitalisierung patriotischer Organisationen, Projekte und Strukturen. Entwickelt mit dem Ziel, die organisatorische, kommunikative und operative Arbeit von Parteien, Stiftungen und politischen Netzwerken effizient, sicher und zukunftsfähig zu gestalten.
+**PatriotConnect** ist eine modulare, skalierbare Architekturbasis zur Digitalisierung patriotischer Organisationen, Projekte und Strukturen. Entwickelt mit dem Ziel, die organisatorische, kommunikative und operative Arbeit der Partei, Stiftungen und politischen Netzwerken effizient, sicher und zukunftsfähig zu gestalten.
 
 
 <p align="center">
