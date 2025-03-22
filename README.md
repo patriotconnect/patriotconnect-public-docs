@@ -2,7 +2,10 @@
 
 **PatriotConnect** ist eine modulare, skalierbare Architekturbasis zur Digitalisierung patriotischer Organisationen, Projekte und Strukturen. Entwickelt mit dem Ziel, die organisatorische, kommunikative und operative Arbeit von Parteien, Stiftungen und politischen Netzwerken effizient, sicher und zukunftsfähig zu gestalten.
 
-![PatriotConnect Logo](./logo/logo.svg)
+
+<p align="center">
+  <img src="./logo/logo.svg" alt="PatriotConnect Logo" width="500" />
+</p>
 
 ---
 
